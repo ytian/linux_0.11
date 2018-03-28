@@ -1,0 +1,8 @@
+# linux 0.11 src (build success)
+### env
+ubuntu: 12.04
+
+### tools:
+sudo apt-get install bin86
+
+### just run build!
